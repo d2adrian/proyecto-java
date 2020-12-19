@@ -1,1 +1,1 @@
-# proyecto-java
+# proyectoinfo
